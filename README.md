@@ -1,6 +1,7 @@
+# sample work
 # filesearch
 
-What does this javascript do?
+What does this script do?
 Search the last created file based specified name and datetime from a folder and perform a copy to another folder.
 
 What are the criteria?
